@@ -1,20 +1,17 @@
 {
-  "site": "",
+  "site": "https://lms.bandirma.edu.tr",
   "anliklog": true,
   "kullanicibilgi": {
-    "ogrencino": "",
-    "ogrencisifre": ""
+    "ogrencino": "181203048",
+    "ogrencisifre": "HRRAVZ"
   },
   "dersler": [
-    {
-      "adi": "",
-      "saat": "",
-      "gunu": ""
-    },
-    {
-      "adi": "",
-      "saat": "",
-      "gunu": ""
-    }
+  {"adi":"Bilişim Hukuku ve Etiği (2020-2021 Uzaktan Egitim Bahar Dönemi)", "saat":"09:35", "gunu":"Salı" },
+  {"adi":"Web Tasarım ve İnternet Programlama II (2020-2021 Uzaktan Egitim Bahar Dönemi)", "saat":"10:25", "gunu":"Salı"},
+  {"adi":"Mobil Programlama (2020-2021 Uzaktan Egitim Bahar Dönemi)", "saat":"14:30", "gunu":"Salı" },
+  {"adi":"Örgütsel Davranış (2020-2021 Uzaktan Egitim Bahar Dönemi)", "saat":"10:25", "gunu":"Carsamba"},
+  {"adi":"R Programlama (2020-2021 Uzaktan Egitim Bahar Dönemi)", "saat":"14:30", "gunu":"Carsamba"},
+  {"adi":"Sistem Analizi ve Tasarımı (2020-2021 Uzaktan Egitim Bahar Dönemi)", "saat":"14:30", "gunu":"Persembe},
+  {"adi":"Görsel Programlama (2020-2021 Uzaktan Egitim Bahar Dönemi)", "saat":"14:30", "gunu":"Cuma}
   ]
 }
